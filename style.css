@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-family: cursive;
+}
+.calculadora{
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 40px;
+
+
+}
+.calculadora h1{
+    text-align: center;
+}
+.form{
+    position: relative;
+    margin: 60px;
+}
+.calcular{
+    position: relative;
+    margin-left: 55px;
+    margin-top: 9px;
+
+}
+.categoria{
+    position: relative;
+    margin: 9px;
+    color:black
+    
+    
+}
+.destaque{
+    color:yellow
+}
+#resultado{
+    text-align: center;
+    color: black;
+}
+
+
